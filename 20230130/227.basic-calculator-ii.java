@@ -26,10 +26,6 @@ class Solution {
                 num = num * 10 + (currChar - '0');
             }
 
-            // parentheses have higher priority
-            if (currChar == '(') {
-                num = calculate(s);
-            }
             if (i == s.length() || currChar == '+' || currChar == '-' 
                                 || currChar == '*' || currChar == '/'
                                 || currChar == ')') {
@@ -45,9 +41,6 @@ class Solution {
 
                 operator = currChar;
                 num = 0;
-            }
-            if (currChar == ')') {
-                break;
             }
         }
         int results = 0;
