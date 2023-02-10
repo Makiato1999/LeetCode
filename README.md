@@ -1,2 +1,2 @@
 # LeetCode
-ideas refer to 古城算法
+solutions refer to 古城算法
