@@ -1,7 +1,7 @@
 # LeetCode
 solutions refer to 古城算法
 
-1.
+1. Two Sum
 2.
 3. 
 5. Longest Palindromic Substring (dynamic programming)
