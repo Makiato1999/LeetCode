@@ -2,6 +2,8 @@
 练习，自用，记录，坚持
 
 #### UPDATE-2023-0531
+- 643-Maximum Average Subarray I（sliding window)
+#### UPDATE-2023-0531
 - 1768-Merge Strings Alternately 
 - 1071-Greatest Common Divisor of Strings 
 - 1431-Kids With the Greatest Number of Candies
