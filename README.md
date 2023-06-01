@@ -1,7 +1,7 @@
 # LeetCode
 练习，自用，记录，坚持
 
-#### UPDATE-2023-0531
+#### UPDATE-2023-0601
 - 643-Maximum Average Subarray I（sliding window)
 #### UPDATE-2023-0531
 - 1768-Merge Strings Alternately 
