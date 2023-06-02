@@ -1,6 +1,6 @@
 # LeetCode
-练习，自用，记录，坚持
-|syntax|preview|
+打卡 2
+|difficulty|preview|
 |:---:|:---:|
 |easy|:small_blue_diamond:|
 |medium|:small_orange_diamond:|
