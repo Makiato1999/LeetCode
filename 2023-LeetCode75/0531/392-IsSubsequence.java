@@ -1,5 +1,10 @@
-class IsSubsequence {
-    
+/**
+ * easy
+ * 
+ * 用了动态规划，详情见readme，有图
+ */
+class Solution {
+
     public boolean isSubsequence(String s, String t) {
         int m = s.length(), n = t.length();
         // 创建一个记录子问题最优解的二维数组
