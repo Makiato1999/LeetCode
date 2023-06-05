@@ -6,7 +6,7 @@
 |medium|:small_orange_diamond:|
 |hard|:small_red_triangle:|
 
-#### UPDATE-2023-0602
+#### UPDATE-2023-0605
 - :small_orange_diamond: 2390-Removing Stars From a String (stack, StringBuilder)
 
 #### UPDATE-2023-0602
