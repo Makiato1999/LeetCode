@@ -1,5 +1,5 @@
 # LeetCode
-打卡 3
+打卡 4
 |difficulty|preview|
 |:---:|:---:|
 |easy|:small_blue_diamond:|
@@ -9,6 +9,7 @@
 #### UPDATE-2023-0605
 - :small_orange_diamond: 2390-Removing Stars From a String (stack, StringBuilder)
 - :small_orange_diamond: 2095-Delete the Middle Node of a Linked List
+- :small_orange_diamond: 328-Odd Even Linked List (odd/even)
 
 #### UPDATE-2023-0602
 - :small_blue_diamond: 643-Maximum Average Subarray I（sliding window)
