@@ -10,7 +10,8 @@
 - :small_orange_diamond: 2390-Removing Stars From a String (stack, StringBuilder)
 - :small_orange_diamond: 2095-Delete the Middle Node of a Linked List
 - :small_orange_diamond: 328-Odd Even Linked List (odd/even)
-- :small_blue_diamond: 104. Maximum Depth of Binary Tree (DFS, recursion)
+- :small_blue_diamond: 104-Maximum Depth of Binary Tree (DFS, recursion)
+- :small_blue_diamond: 872-Leaf-Similar Trees (DFS, recursion)
 
 #### UPDATE-2023-0602
 - :small_blue_diamond: 643-Maximum Average Subarray I（sliding window)
