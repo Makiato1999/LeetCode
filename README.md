@@ -13,6 +13,8 @@
 - :small_blue_diamond: 104-Maximum Depth of Binary Tree (DFS, recursion)
 - :small_blue_diamond: 872-Leaf-Similar Trees (DFS, recursion)
 - :small_orange_diamond: 841-Keys and Rooms
+- :small_blue_diamond: 206-Reverse Linked List (reverse-linkedlist, recursion)
+
 
 #### UPDATE-2023-0602
 - :small_blue_diamond: 643-Maximum Average Subarray I（sliding window)
