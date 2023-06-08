@@ -1,5 +1,5 @@
 # LeetCode
-打卡 5
+打卡 6
 |difficulty|preview|
 |:---:|:---:|
 |easy|:small_blue_diamond:|
@@ -14,7 +14,7 @@
 - :small_blue_diamond: 872-Leaf-Similar Trees (DFS, recursion)
 - :small_orange_diamond: 841-Keys and Rooms
 - :small_blue_diamond: 206-Reverse Linked List (reverse-linkedlist, recursion)
-
+- :small_orange_diamond: 2130-Maximum Twin Sum of a Linked List (linkedlist, recursion)
 
 #### UPDATE-2023-0602
 - :small_blue_diamond: 643-Maximum Average Subarray I（sliding window)
