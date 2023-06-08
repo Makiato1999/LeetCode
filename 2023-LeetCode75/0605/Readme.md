@@ -23,3 +23,7 @@ by doing head.next = null we are cutting this cycle,
 so first list will become 1 -> 2 -> NULL
 reversed will become 5 -> 4 -> 3 -> 2 -> NULL
 ```
+## 1448. Count Good Nodes in Binary Tree
+#### 第一种递归解法的思路
+![image](./1448tree.png)
+![image](./1448algo.png)
