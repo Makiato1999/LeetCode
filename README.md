@@ -1,5 +1,5 @@
 # LeetCode
-打卡 6
+打卡 7
 |difficulty|preview|
 |:---:|:---:|
 |easy|:small_blue_diamond:|
@@ -16,6 +16,7 @@
 - :small_blue_diamond: 206-Reverse Linked List (reverse-linkedlist, recursion)
 - :small_orange_diamond: 2130-Maximum Twin Sum of a Linked List (linkedlist, recursion)
 - :small_orange_diamond: 1448-Count Good Nodes in Binary Tree (tree, recursion)
+- :small_orange_diamond: 735-Asteroid Collision (stack, iteration)
 
 #### UPDATE-2023-0602
 - :small_blue_diamond: 643-Maximum Average Subarray I（sliding window)
