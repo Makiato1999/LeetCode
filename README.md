@@ -15,8 +15,8 @@
 - :small_orange_diamond: 2390-Removing Stars From a String (stack, StringBuilder)
 - :small_orange_diamond: 2095-Delete the Middle Node of a Linked List
 - :small_orange_diamond: 328-Odd Even Linked List (odd/even)
-- :small_blue_diamond: 104-Maximum Depth of Binary Tree (DFS, recursion)
-- :small_blue_diamond: 872-Leaf-Similar Trees (DFS, recursion)
+- :small_blue_diamond: 104-Maximum Depth of Binary Tree (dfs, recursion)
+- :small_blue_diamond: 872-Leaf-Similar Trees (dfs, recursion)
 - :small_orange_diamond: 841-Keys and Rooms
 - :small_blue_diamond: 206-Reverse Linked List (reverse-linkedlist, recursion)
 - :small_orange_diamond: 2130-Maximum Twin Sum of a Linked List (linkedlist, recursion)
