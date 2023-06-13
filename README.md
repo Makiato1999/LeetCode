@@ -10,6 +10,7 @@
 - :small_blue_diamond: 933-Number of Recent Calls
 - :small_orange_diamond: 151-Reverse Words in a String
 - :small_orange_diamond: 215-Kth Largest Element in an Array (pq, maxheap, Comparator)
+- :small_orange_diamond: 547-Number of Provinces (adjacency matrix, 2d array, dfs, recursion)
 
 #### UPDATE-2023-0605
 - :small_orange_diamond: 2390-Removing Stars From a String (stack, StringBuilder)
