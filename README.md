@@ -12,6 +12,7 @@
 - :small_orange_diamond: 215-Kth Largest Element in an Array (pq, maxheap, Comparator)
 - :small_orange_diamond: 547-Number of Provinces (adjacency matrix, 2d array, dfs, recursion)
 - :small_orange_diamond: 2336-Smallest Number in Infinite Set (minheap, hashset)
+- :small_blue_diamond: 374-Guess Number Higher or Lower
 
 #### UPDATE-2023-0605
 - :small_orange_diamond: 2390-Removing Stars From a String (stack, StringBuilder)
